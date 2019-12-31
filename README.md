@@ -51,6 +51,7 @@ https://wferebee.github.io/Clicky_Game/
 <br />
 <br />
 
+### Some of the initial React app ReadME
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
