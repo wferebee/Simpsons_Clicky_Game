@@ -1,12 +1,15 @@
 
-### Clicky Game is a Simpsons themed memory game. To win the game, click on a different card each time. If you click on the same card twice, you will lose. This may seem easy, but after each click, the cards are shuffled so you need a sharp memory to achieve a high score.
-*
-*
-*
+### Clicky Game
+is a Simpsons themed memory game. To win the game, click on a different card each time. If you click on the same card twice, you will lose. This may seem easy, but after each click, the cards are shuffled so you need a sharp memory to achieve a high score.
+
+<br />
+<br />
+
 ### Clicky Game was built using React.js and is component based. It uses "state" to keep track of changes and is able to update the page without reloading.
-*
-*
-*
+
+<br />
+<br />
+
 ### Other Technologies Used:
 
   * JSX - a mix of Javascript and HTML
@@ -14,18 +17,25 @@
   * NPM
   * CSS
 
+<br />
+<br />
 
 ## HERE is a screenshot of the game in action
 * ![Screenshot (48)](https://user-images.githubusercontent.com/53095806/71611181-efe97580-2b64-11ea-8321-b423356eeaf3.png)
 
+<br />
+<br />
 
 ### React.js is awesome, and  I have left some of the intial ReadME at the bottom of this section incase youwould like to download my app and run it or build your own.
+
+<br />
+<br />
+
 ## LIVE LINK
 https://wferebee.github.io/Clicky_Game/
 
-*
-*
-*
+<br />
+<br />
 
 ## Things I would like to add/ fix:
  * The user needs to be able to win the game, so maybe an alert or somthing else letting the uer know they have won.
@@ -34,18 +44,12 @@ https://wferebee.github.io/Clicky_Game/
  * A "Doh!" win the user loses.
  * A comment from Lisa Simpson win the user wins the game.
 
-*
-*
-*
-*
-*
-
-
-
-
-
-
-
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
