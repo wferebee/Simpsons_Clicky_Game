@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "name": "Maggie",
+    "image": "https://vignette.wikia.nocookie.net/simpsons/images/9/9d/Maggie_Simpson.png/revision/latest/top-crop/width/360/height/360?cb=20130424150432"
+
+  },
+  {
+    "id": 2,
+    "name": "Flanders",
+    "image": "https://vignette.wikia.nocookie.net/simpsons/images/8/84/Ned_Flanders.png/revision/latest?cb=20100513160156"
+
+  },
+  {
+    "id": 3,
+    "name": "Comicbook Guy",
+    "image": "https://vignette.wikia.nocookie.net/simpsons/images/9/9d/Comic_Book_Guy.png/revision/latest/top-crop/width/360/height/450?cb=20140825023038"
+
+  },
+  {
+    "id": 4,
+    "name": "Willie",
+    "image": "https://vignette.wikia.nocookie.net/simpsons/images/9/9d/Groundskeeper_Willie.png/revision/latest/top-crop/width/360/height/450?cb=20130424154035"
+
+  },
+  {
+    "id": 5,
+    "name": "Abe",
+    "image": "https://vignette.wikia.nocookie.net/simpsons/images/a/a9/Abraham_Simpson.png/revision/latest/top-crop/width/360/height/360?cb=20151011181838"
+
+  },
+  {
+    "id": 6,
+    "name": "Marge",
+    "image": "https://vignette.wikia.nocookie.net/mighty355/images/8/87/Marge_Simpson_2.png/revision/latest?cb=20150623184649"
+
+  },
+  {
+    "id": 7,
+    "name": "Moe",
+    "image": "https://vignette.wikia.nocookie.net/simpsons/images/8/80/Moe_Szyslak.png/revision/latest?cb=20170101190543"
+
+  },
+  {
+    "id": 8,
+    "name": "Bart",
+    "image": "https://vignette.wikia.nocookie.net/p__/images/6/65/Bart_Simpson.png/revision/latest?cb=20180316200704&path-prefix=protagonist"
+
+  },
+  {
+    "id": 9,
+    "name": "Homer",
+    "image": "https://vignette.wikia.nocookie.net/simpsons/images/0/02/Homer_Simpson_2006.png/revision/latest/top-crop/width/360/height/360?cb=20190409004803"
+ 
+  },
+  {
+    "id": 10,
+    "name": "Mr. Burns",
+    "image": "https://vignette.wikia.nocookie.net/villains/images/3/35/Buns.png/revision/latest/top-crop/width/360/height/450?cb=20190708193614"
+
+  },
+  {
+    "id": 11,
+    "name": "Lisa",
+    "image": "https://vignette.wikia.nocookie.net/simpsons/images/d/d5/Lisa_Simpson_official.png/revision/latest/top-crop/width/360/height/360?cb=20190409004811"
+
+  },
+  {
+    "id": 12,
+    "name": "Smither",
+    "image": "https://vignette.wikia.nocookie.net/simpsons/images/8/83/Waylon_Smithers.png/revision/latest?cb=20100612160358"
+ 
+  }
+]

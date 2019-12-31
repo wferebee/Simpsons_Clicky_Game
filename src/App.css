@@ -1,0 +1,79 @@
+.App {
+  text-align: center;
+  background-image: url("https://images.wikia.nocookie.net/__cb46/simpsons/images/5/50/Wiki-background");
+  min-height: 100vh;
+  width: 100%;
+  margin: 0px;
+  padding: 0px;
+  overflow-x: hidden; 
+}
+
+.App-header {
+  background-color: rgb(208, 223, 8);
+  height: 100px;
+  padding: 10px;
+  color: rgb(0, 0, 0);
+}
+
+.App-title {
+  font-size: 1.5em;
+  font-weight: 900;
+}
+
+.App-intro {
+  font-size: large;
+  color: rgb(0, 0, 0);
+  font-weight: bolder;
+  text-align: center;
+  clear: both;
+  position: relative;
+  bottom:175px;
+}
+
+h6, a{
+text-align: center;
+font-size: .75rem;
+color: rgb(33, 46, 223);
+}
+
+.score {
+  color: rgb(0, 0, 0);
+}
+
+.TheSimpsons{
+  position: relative;
+  float: left;
+  height: 110px;
+  width: 300px;
+  background-image: url("https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/The_Simpsons_Logo.svg/1200px-The_Simpsons_Logo.svg.png");
+  background-size: contain;
+  background-repeat: no-repeat;
+}
+.clickyGame{
+  position: relative;
+  float: left;
+  top: 35px;
+  right: 30px;
+  height: 300px;
+  width: 300px;
+  background-image: url("https://fontmeme.com/permalink/191231/10975c29fae9a65121e97e50547d1987.png");
+  background-size: contain;
+  background-repeat: no-repeat;
+ z-index: 5;
+}
+
+.logos {
+  position: relative;
+  left: 30%;
+}
+
+.footer {
+  margin-top: -100px;
+  background-color:rgb(208, 223, 8);
+  margin-bottom: 0px;
+  height: 4.8rem;
+  width: 100%;
+  position: relative;
+  bottom: 83px;
+  margin-bottom:-20%;
+}

@@ -1,0 +1,18 @@
+.wrapper {
+  box-sizing: border-box;
+  background: rgb(75, 109, 223);
+  height: 40%;
+  width: 40%;
+  display: flex;
+  flex-flow: row wrap;
+  padding: 25px;
+  justify-content: space-around;
+  align-content: center;
+  position: relative;
+  bottom: 180px;
+  left: 27%;
+  margin-bottom: 20px;
+}
+
+
+
