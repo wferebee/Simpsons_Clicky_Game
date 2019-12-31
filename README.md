@@ -20,7 +20,7 @@ is a Simpsons themed memory game. To win the game, click on a different card eac
 <br />
 <br />
 
-## HERE is a screenshot of the game in action
+## Here is a screenshot of the game in action
 * ![Screenshot (48)](https://user-images.githubusercontent.com/53095806/71611181-efe97580-2b64-11ea-8321-b423356eeaf3.png)
 
 <br />
