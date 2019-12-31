@@ -1,11 +1,32 @@
 
+# Clicky Game is a Simpsons themed memory game. To win the game, click on a different card each time. If you click on the same card twice, you will lose. This may seem easy, but after each click, the cards are shuffled so you need a sharp memory to achieve a high score.
 
+# Clicky Game was built using React.js and is component based. It uses "state" to keep track of changes and is able to update the page without reloading.
+
+### Other Technologies Used:
+
+  * JSX - a mix of Javascript and HTML
+  * Node
+  * NPM
+  * CSS
+
+
+### HERE is a screenshot of the game in action
+* ![Screenshot (48)](https://user-images.githubusercontent.com/53095806/71611181-efe97580-2b64-11ea-8321-b423356eeaf3.png)
+
+
+# React.js is awesome, and  I have left some of the intial ReadME at the bottom of this section incase youwould like to download my app and run it or build your own.
 ## LIVE LINK
 https://wferebee.github.io/Clicky_Game/
 
 
 
-
+### Things I would like to add/ fix:
+ * The user needs to be able to win the game, so maybe an alert or somthing else letting the uer know they have won.
+ * Somthing in my CSS is messing with my ability to click on certain car positions, when the screen is not maxmized, all card positions are available to be clicked though, so im sure its just a css problem/ quick fix.
+ * A "The Simpsons" suound effec when the user lands on the page.
+ * A "Doh!" win the user loses.
+ * A comment from Lisa Simpson win the user wins the game.
 
 
 
@@ -47,15 +68,6 @@ Your app is ready to be deployed!
 
 See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (Webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
 
 ## Learn More
 
@@ -63,17 +75,6 @@ You can learn more in the [Create React App documentation](https://facebook.gith
 
 To learn React, check out the [React documentation](https://reactjs.org/).
 
-### Code Splitting
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/code-splitting
-
-### Analyzing the Bundle Size
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size
-
-### Making a Progressive Web App
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app
 
 ### Advanced Configuration
 
@@ -83,6 +84,4 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/ad
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/deployment
 
-### `npm run build` fails to minify
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
