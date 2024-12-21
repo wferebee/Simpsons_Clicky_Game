@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/Simpsons_Clicky_Game/static/css/main.dfb56b4a.css",
+    "main.css": "/Simpsons_Clicky_Game/static/css/main.67daf863.css",
     "main.js": "/Simpsons_Clicky_Game/static/js/main.cfa77803.js",
     "index.html": "/Simpsons_Clicky_Game/index.html",
-    "main.dfb56b4a.css.map": "/Simpsons_Clicky_Game/static/css/main.dfb56b4a.css.map",
+    "main.67daf863.css.map": "/Simpsons_Clicky_Game/static/css/main.67daf863.css.map",
     "main.cfa77803.js.map": "/Simpsons_Clicky_Game/static/js/main.cfa77803.js.map"
   },
   "entrypoints": [
-    "static/css/main.dfb56b4a.css",
+    "static/css/main.67daf863.css",
     "static/js/main.cfa77803.js"
   ]
 }
