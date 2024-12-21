@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/Clicky_Game/static/css/main.90769022.css",
-    "main.js": "/Clicky_Game/static/js/main.2905ea97.js",
-    "index.html": "/Clicky_Game/index.html",
-    "main.90769022.css.map": "/Clicky_Game/static/css/main.90769022.css.map",
-    "main.2905ea97.js.map": "/Clicky_Game/static/js/main.2905ea97.js.map"
+    "main.css": "/Simposons_Clicky_Game/static/css/main.90769022.css",
+    "main.js": "/Simposons_Clicky_Game/static/js/main.566c4381.js",
+    "index.html": "/Simposons_Clicky_Game/index.html",
+    "main.90769022.css.map": "/Simposons_Clicky_Game/static/css/main.90769022.css.map",
+    "main.566c4381.js.map": "/Simposons_Clicky_Game/static/js/main.566c4381.js.map"
   },
   "entrypoints": [
     "static/css/main.90769022.css",
-    "static/js/main.2905ea97.js"
+    "static/js/main.566c4381.js"
   ]
 }
