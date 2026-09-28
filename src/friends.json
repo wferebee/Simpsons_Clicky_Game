@@ -69,6 +69,48 @@
     "id": 12,
     "name": "Smither",
     "image": "https://vignette.wikia.nocookie.net/simpsons/images/8/83/Waylon_Smithers.png/revision/latest?cb=20100612160358"
- 
+  
+  },
+  {
+    "id": 13,
+    "name": "Krusty",
+    "image": "https://vignette.wikia.nocookie.net/simpsons/images/5/5a/Krustytheclown.png/revision/latest?cb=20140126234206"
+  
+  },
+  {
+    "id": 14,
+    "name": "Milhouse",
+    "image": "https://vignette.wikia.nocookie.net/simpsons/images/1/11/Milhouse_Van_Houten.png/revision/latest?cb=20170101190537"
+  
+  },
+  {
+    "id": 15,
+    "name": "Principal Skinner",
+    "image": "https://vignette.wikia.nocookie.net/simpsons/images/3/3a/Seymour_Skinner.png/revision/latest?cb=20100609155434"
+  
+  },
+  {
+    "id": 16,
+    "name": "Ralph Wiggum",
+    "image": "https://vignette.wikia.nocookie.net/simpsons/images/1/14/Ralph_Wiggum.png/revision/latest?cb=20100612160354"
+  
+  },
+  {
+    "id": 17,
+    "name": "Chief Wiggum",
+    "image": "https://vignette.wikia.nocookie.net/simpsons/images/9/9f/Clancy_Wiggum.png/revision/latest?cb=20170101190516"
+  
+  },
+  {
+    "id": 18,
+    "name": "Otto",
+    "image": "https://vignette.wikia.nocookie.net/simpsons/images/8/82/Otto_Mann.png/revision/latest?cb=20100612160353"
+  
+  },
+  {
+    "id": 19,
+    "name": "Nelson",
+    "image": "https://vignette.wikia.nocookie.net/simpsons/images/a/a1/Nelson_Muntz.png/revision/latest?cb=20100609155435"
+  
   }
 ]
