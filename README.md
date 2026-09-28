@@ -32,7 +32,7 @@ is a Simpsons themed memory game. To win the game, click on a different card eac
 <br />
 
 ## LIVE LINK
-https://wferebee.github.io/Clicky_Game/
+https://wferebee.github.io/Simpsons_Clicky_Game/
 
 <br />
 <br />
@@ -97,5 +97,4 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/ad
 ### Deployment
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/deployment
-
 
